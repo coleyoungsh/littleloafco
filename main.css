@@ -15,8 +15,15 @@ body {
 	font-family: Noto Sans;
 }
 
-h1 {
+h1,
+h2,
+h3 {
+	margin: 20px 0;
+	max-width: 800px;
 	text-align: center;
+}
+
+h1 {
 	font-size: 5rem;
 }
 
@@ -32,15 +39,7 @@ h2 {
 }
 
 h3 {
-	font-size: 2rem;
-}
-
-h1,
-h2,
-h3 {
-	margin: 20px 0;
-	max-width: 800px;
-	text-align: center;
+	font-size: 3rem;
 }
 
 h2 {
@@ -48,7 +47,7 @@ h2 {
 }
 
 h3 a {
-	font-size: 2rem;
+	font-size: 3rem;
 	color: #747474;
 }
 
@@ -63,6 +62,7 @@ p {
 	line-height: 2rem;
 	max-width: 800px;
 	font-size: 1.2rem;
+	margin: 10px 0;
 }
 
 header {
@@ -73,7 +73,6 @@ header {
 }
 
 header div {
-	/*max-width: 800px;*/
 	width: 800px;
 	display: flex;
 	align-items: center;
@@ -124,13 +123,17 @@ nav li a {
 }
 
 #notice {
-	text-align: center;
+	font-weight: bold;
+	padding: 0;
+	width: 100%;
+}
+
+#notice span {
 	background-color: #be3939;
 	color: #F3f0e7;
-	padding: 10px;
-	border-radius: 1rem;
-	width: 800px;
-	margin-top: 40px;
+	padding: 4px 8px;
+	font-size: 1.2rem;
+	border-radius: 4px;
 }
 
 #gallery h3 {
