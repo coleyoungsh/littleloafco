@@ -1,0 +1,33 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #F3f0e7;
+}
+
+div,
+nav {
+	margin: 0 15vw;
+}
+
+h1,
+h3 {
+	color: #be3939
+}
+
+h2,
+a {
+	color: #747474
+}
+
+a {
+	text-decoration: none;
+}
+
+#landing img {
+	width: 70%;
+	border-radius: 1rem;
+}
