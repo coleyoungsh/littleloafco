@@ -5,6 +5,7 @@
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
+	font-size: 14px;
 }
 
 body {
@@ -15,6 +16,7 @@ body {
 
 h1 {
 	text-align: center;
+	font-size: 5rem;
 }
 
 h1,
@@ -25,33 +27,48 @@ h3 {
 
 h2 {
 	font-weight: 200;
+	font-size: 2rem;
+}
+
+h3 {
+	font-size: 2rem;
 }
 
 h1,
 h2,
 h3 {
-	margin: 10px 0;
+	margin: 20px 0;
+	max-width: 800px;
+	text-align: center;
 }
 
-h2,
-a {
+h2 {
+	color: #747474;
+}
+
+h3 a {
+	font-size: 2rem;
 	color: #747474;
 }
 
 a {
 	text-decoration: none;
+	color: #be3939;
+	font-size: 1.2rem;
 }
 
 p {
 	color: #747474;
+	line-height: 2rem;
 	max-width: 800px;
+	font-size: 1.2rem;
 }
 
 header {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	margin: 40px 0;
+	margin: 60px 0;
 }
 
 header div {
@@ -75,22 +92,48 @@ nav li {
 	list-style: none;
 }
 
-#landing {
+nav li a {
+	color: #747474;
+}
+
+#landing,
+#about,
+#gallery {
 	display: flex;
 	justify-content: center;
 	align-items: center;
 
 }
 
-#landing .wrapper {
+#landing .wrapper,
+#about .wrapper,
+#gallery .wrapper {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
 }
 
-#landing .wrapper img {
-	width: 70%;
+#landing .wrapper img,
+#about .wrapper img,
+#gallery .wrapper img {
+	width: 100%;
 	max-width: 800px;
 	border-radius: 1rem;
 	margin: 40px 0;
+}
+
+#gallery h3 {
+	margin: 0 0 80px;
+}
+
+footer {
+	height: 200px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+footer p {
+	text-align: center;
+	color: #be3939;
 }
