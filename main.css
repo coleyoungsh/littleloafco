@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Color+Emoji&family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
 
 * {
 	margin: 0;
@@ -120,6 +121,16 @@ nav li a {
 	max-width: 800px;
 	border-radius: 1rem;
 	margin: 40px 0;
+}
+
+#notice {
+	text-align: center;
+	background-color: #be3939;
+	color: #F3f0e7;
+	padding: 10px;
+	border-radius: 1rem;
+	width: 800px;
+	margin-top: 40px;
 }
 
 #gallery h3 {
