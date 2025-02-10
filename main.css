@@ -190,5 +190,6 @@ footer {
 
 footer p {
 	text-align: center;
+	max-width: 800px;
 	color: #be3939;
 }
