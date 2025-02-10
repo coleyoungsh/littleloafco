@@ -154,7 +154,6 @@ nav li a {
 	border-radius: 4px;
 }
 
-.recipe h1,
 .recipe h2,
 .recipe h3 {
 	text-align: left;
@@ -162,6 +161,24 @@ nav li a {
 
 .recipe h3 {
 	margin-top: 50px;
+}
+
+.tip {
+	/*background-color: #dad5c8;*/
+	border-radius: 0.3rem;
+	border-left: 5px solid #be3939;
+	margin-bottom: 20px;
+}
+
+.tip h4 {
+	/*background-color: #be3939;*/
+	color: #be3939;
+	padding: 15px 0 5px 15px;
+	border-radius: 10px 10px 0 0;
+}
+
+.tip p {
+	padding-left: 15px;
 }
 
 footer {
