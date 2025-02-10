@@ -97,10 +97,26 @@ nav li a {
 	color: #747474;
 }
 
+form p input {
+	background-color: #dad5c8;
+	border: none;
+	padding: 15px 10px ;
+	border-radius: 1rem;
+}
+
+form .submit {
+	background-color: #be3939;
+	color: #F3f0e7;
+	border: none;
+	padding: 15px 10px;
+	border-radius: 1rem;
+}
+
 #landing,
 #about,
 #gallery,
 #resources,
+#contact,
 .article {
 	margin: 0 10vw;
 	display: flex;
