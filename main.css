@@ -102,13 +102,14 @@ form p input {
 	border: none;
 	padding: 15px 10px ;
 	border-radius: 1rem;
+	width: 100%;
 }
 
 form .submit {
 	background-color: #be3939;
 	color: #F3f0e7;
 	border: none;
-	padding: 15px 10px;
+	padding: 15px 20px;
 	border-radius: 1rem;
 }
 
