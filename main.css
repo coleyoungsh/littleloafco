@@ -66,6 +66,7 @@ p {
 	line-height: 2rem;
 	font-size: 1.2rem;
 	margin: 0 0 10px 0;
+	max-width: 800px;
 }
 
 header {
@@ -103,17 +104,22 @@ nav li a {
 	color: #747474;
 }
 
+input:focus,
+textarea:focus,
+*:focus {
+	outline: none;
+}
 
-form p input {
+.listmonk-form p input {
 	background-color: #dad5c8;
 	border: none;
-	padding: 15px 10px ;
+	padding: 15px;
 	border-radius: 1rem;
 	width: 100%;
 	margin: 5px 0;
 }
 
-form .submit {
+.listmonk-form .submit {
 	background-color: #be3939;
 	color: #F3f0e7;
 	border: none;
@@ -153,6 +159,17 @@ form .submit {
 	color: #F3f0e7;
 	text-align: center;
 	padding: 4px 0;
+	max-width: 100%;
+}
+
+.winter {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	background-color: white;
+	margin: 20px 0;
+	padding: 20px;
+	border-radius: 1rem;
 }
 
 #gallery img:not(:first-child) {
