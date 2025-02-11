@@ -44,6 +44,12 @@ h2 {
 	color: #747474;
 }
 
+h2 a {
+	color: #be3939;
+	font-weight: 200;
+	font-size: 3rem;
+}
+
 h3 a {
 	font-size: 3rem;
 	color: #747474;
@@ -97,12 +103,14 @@ nav li a {
 	color: #747474;
 }
 
+
 form p input {
 	background-color: #dad5c8;
 	border: none;
 	padding: 15px 10px ;
 	border-radius: 1rem;
 	width: 100%;
+	margin: 5px 0;
 }
 
 form .submit {
