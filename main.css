@@ -168,7 +168,7 @@ textarea:focus,
 	flex-direction: column;
 	background-color: white;
 	margin: 20px 0;
-	padding: 20px;
+	padding: 20px 40px;
 	border-radius: 1rem;
 }
 
