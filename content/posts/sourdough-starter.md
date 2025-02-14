@@ -4,6 +4,8 @@ draft = false
 title = 'Sourdough Starter'
 +++
 
+<!-- ![Sourdough Starter](/images/starter.png) -->
+
 # What is a sourdough starter?
 ---
 The sourdough starter is the leavening agent that gives rise to our sourdough bread. By capturing and cultivating the wild yeast that live all around us (and on us), we can create an invaluable tool in our kitchens that will take care of you for the rest of your life.

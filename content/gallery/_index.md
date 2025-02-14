@@ -8,28 +8,14 @@ We're pretty passionate about what we do here at the Little Loaf Company. We are
 
 ![Pain au Chocolat](/images/pain-au-chocolate.jpeg) 
 
-### Pain au Chocolat
-
 ![Whole Wheat Sourdough Crumb](/images/whole-wheat-crumb.jpeg) 
-
-### Whole Wheat Sourdough
 
 ![Challah](/images/challah.jpeg) 
 
-### Challah
-
 ![Burger Buns](/images/burger-buns.jpeg) 
-
-### Burger Buns
 
 ![Cranberry Walnut Sourdough](/images/cranberry-walnut-crumb-600x800.jpeg)
 
-### Cranberry Walnut Sourdough
-
 ![Croissant](/images/croissant-crumb.jpeg) 
 
-### Croissant
-
-![Sandwich Loaf](/images/sandwich-loaf.jpeg) 
-
-### Sandwich Loaf
+![Sandwich Loaf](/images/sandwich-loaf.jpeg)

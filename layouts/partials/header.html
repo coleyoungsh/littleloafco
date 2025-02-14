@@ -1,3 +1,4 @@
+{{ partial "notice.html" }}
 {{ $image := resources.Get "littleloaf.png" }}
 <a href="/"><img src="{{ $image.RelPermalink }}"></a>
 {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
