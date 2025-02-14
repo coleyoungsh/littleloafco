@@ -49,7 +49,7 @@ To shape the dough, flour the work surface and gently turn the dough out onto it
 ### 5. Cold Retarding
 For the purpose of developing flavor and an open crumb structure you want to leave your dough in the refrigerator over night for at least twelve hours.
 
-> #### Tip on refridgeration
+> #### Tip on refrigeration
 > Provided that your refrigerator is at the proper temperature of 34°F then your dough will not rise much if any above the top of the banneton. It can be held in this state for up to three days before the acid produced by the bacteria will start to diminish the strength of the gluten in the dough. If the loaf is over proofing in the fridge it is most likely because it is too warm.
 
 ### 6. Baking the Loaf

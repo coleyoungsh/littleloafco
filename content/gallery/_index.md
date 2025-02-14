@@ -4,7 +4,7 @@ draft = false
 title = 'Our Bakes'
 +++
 
-We're pretty passionate about what we do here at the Little Loaf Company. We are always researching and testing out new ways to get a better bake. Please, check out some of our work!
+We're pretty passionate about what we do here at the Little Loaf Company. We are always researching and testing out new ways to get a better bake. Here are some of our favorites!
 
 ![Pain au Chocolat](/images/pain-au-chocolate.jpeg) 
 

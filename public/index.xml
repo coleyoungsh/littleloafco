@@ -6,8 +6,15 @@
     <description>Recent content in Home on Little Loaf Company</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Feb 2025 16:47:16 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2025 20:51:45 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open Baking Sourdough</title>
+      <link>http://localhost:1313/posts/open-baking-sourdough/</link>
+      <pubDate>Thu, 13 Feb 2025 20:51:45 -0500</pubDate>
+      <guid>http://localhost:1313/posts/open-baking-sourdough/</guid>
+      <description>Dutch Oven vs Open Bake When starting out with sourdough the majority of bakers opt to use a dutch oven to create steam during the first part of a loafs bake. This is a wonderful method and how I did so until I needed to expand the volume of what my home kitchen could produce when I decided to start my own micro bakery. If an individual needs to make more then two loaves at a time; odds are that the need to ditch the dutch oven will become almost non negotiable.</description>
+    </item>
     <item>
       <title>Sourdough Starter</title>
       <link>http://localhost:1313/posts/sourdough-starter/</link>
