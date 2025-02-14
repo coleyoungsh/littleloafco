@@ -5,3 +5,5 @@ title = 'Contact Us'
 +++
 
 We love hearing from people! Need some help with a bake? Need a big order? Custom order? We want to hear whatever you got. Just send us an email to [contact@littleloaf.co](mailto:contact@littleloaf.co)!
+
+{{< contact-form >}}
