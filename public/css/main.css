@@ -144,7 +144,8 @@ blockquote {
 	border-radius: 0.3rem;
 	border-left: 5px solid #be3939;
 	margin-bottom: 20px;
-  padding: 10px;
+  	padding: 10px;
+		
 }
 
 blockquote h4 {
