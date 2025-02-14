@@ -164,14 +164,14 @@ blockquote p {
 	justify-content: center;
 	width: 100vw;
 	background-color: #be3939;
-	padding: 2px 0;
-  	margin: 0 4vw; 
+	padding: 2px 4vw;
 }
 
 #notice p {
 	color: #F3f0e7;
 	padding: 0;
 	margin: 0;
+	text-align: center;
 }
 
 #winter {
