@@ -28,16 +28,16 @@ title = 'Sourdough Batard Recipe'
 ### 1. Assemble the Dough
 Combine the whole wheat flour, white flour, and salt in a bowl. Add the sourdough starter to the water and stir to dissolve. Pour the liquid mixture into the dry ingredients and mix thoroughly until no more dry flour remains using either a hand, dough whisk, or stand mixer. Cover the dough.
 
-> #### Tip on mixing
+> #### Note:
 > When using a stand mixer the paddle attachment will often mix better than the dough hook for dough with a hydration of 70% or higher.
 
-> #### Tip on mixing
+> #### Note:
 > Sourdough leavened breads often take a long time to rise relative to commercial yeast. Due to this, it is advised to cover the dough with plastic wrap or a lid of some sort to prevent excess evaporation of water from the dough that could occur with a tea or kitchen towel. I like to use disposable shower caps.
 
 ### 2. Build the Gluten Network
 Perform a series of stretch and folds once per hour for the next four hours. Working around the dough from its four sides stretch the dough as far as it will go without tearing and fold it over itself.
 
-> #### Tip on gluten development
+> #### Note:
 > If using a white flour in the 14%+ range for gluten protein content, you may only need to do three folds before you have reached a sufficient amount of gluten development for the loaf to stand up on it’s own while remaining soft on the interior.
 
 ### 3. Bulk Fermentation
@@ -49,7 +49,7 @@ To shape the dough, flour the work surface and gently turn the dough out onto it
 ### 5. Cold Retarding
 For the purpose of developing flavor and an open crumb structure you want to leave your dough in the refrigerator over night for at least twelve hours.
 
-> #### Tip on refrigeration
+> #### Note:
 > Provided that your refrigerator is at the proper temperature of 34°F then your dough will not rise much if any above the top of the banneton. It can be held in this state for up to three days before the acid produced by the bacteria will start to diminish the strength of the gluten in the dough. If the loaf is over proofing in the fridge it is most likely because it is too warm.
 
 ### 6. Baking the Loaf
