@@ -1,28 +1,8 @@
-<!-- <div id="reply-message"></div> -->
-<div>
-   <fieldset>
-      <legend>Please fill in the form to submit your request</legend>
-      <form action="https://submit.littleloaf.co/" method="post">
-         <div class="form-item">
-            <label for="name">Name</label>
-            <input type="text" name="name" id="name"  placeholder="Mr. Smith" />
-         </div>
-         <div class="form-item">
-            <label for="email">Email <span class="req"></span></label>
-            <input type="text" name="email" id="email"  class="required email" placeholder="smith@company.com" />
-         </div>
-         <div class="form-item">
-            <label for="subject">Subject</label>
-            <input type="hidden" name="subject" id="subject"  value="contact" />
-            <input type="hidden" name="target" id="target"  value="contact" />
-            <!-- Leave blank or set the value of this field is set with valid URL. If set, the backend service will use the value as redirect URL once the form submitted. -->
-            <input class="form-input" type="hidden" name="requestOrigin" id="requestOrigin"  value="" />
-         </div>
-         <div class="form-item">
-            <label for="message">Message</label>
-            <textarea  rows="6" name="message" id="message"  placeholder="OMG. Your bread is awesome!"></textarea>
-         </div>
-         <input  class="button"  type="submit" value="Submit">
-      </form>
-   </fieldset>
-</div>
+<!--<div id="reply-message"></div> -->
+<form action="https://submit.littleloaf.co/?SUBJECT=Contact%20form" method="post">
+  <input type="hidden" name="SENDER" value="contact@littleloaf.co" />
+  <input type="email" name="REPLY_TO" placeholder="Your email" required="required" />
+  <input type="text" name="name" placeholder="Your name" required="required" />
+  <textarea name="message" cols="30" rows="5" required="required"></textarea>
+  <input type="submit" value="Submit" />
+</form>

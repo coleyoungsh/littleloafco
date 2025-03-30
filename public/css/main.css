@@ -48,9 +48,9 @@ h3 {
 h1,
 h2,
 h3 {
-	color: #be3939;
-	font-family: Comfortaa;
-  	text-align: center;
+  color: #be3939;
+  font-family: Comfortaa;
+  text-align: center;
 }
 
 h2 {
@@ -108,6 +108,10 @@ nav ul li:not(:first-child) {
 
 nav ul li a {
 	color: #747474;
+}
+
+nav ul li a.active {
+	color: #be3939;
 }
 
 li {
