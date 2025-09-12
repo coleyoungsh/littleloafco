@@ -8,4 +8,5 @@ title = 'Home'
 ![Sourdough Batard](/images/sourdough.jpeg) 
 # Every Saturday at the [Roanoke Downtown Market](https://www.downtownroanoke.org/explore/farmers-market) 
 <!-- {{< winter-weather >}} -->
-{{< mailinglist-signup >}}
+<!-- {{< mailinglist-signup >}} -->
+[Place Your Order Here](https://www.hotplate.com/littleloafcompany)
