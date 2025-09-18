@@ -8,4 +8,3 @@ title = 'Home'
 ![Sourdough Batard](/images/sourdough.jpeg) 
 # Every Saturday at the [Roanoke Downtown Market](https://www.downtownroanoke.org/explore/farmers-market) 
 <!-- {{< winter-weather >}} -->
-<!-- {{< mailinglist-signup >}} -->
