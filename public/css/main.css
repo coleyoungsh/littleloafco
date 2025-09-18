@@ -203,17 +203,6 @@ blockquote p {
 	margin-top: 0;
 }
 
-
-.listmonk-form p input {
-	background-color: #ece8dc;
-	border: none;
-	padding: 15px;
-	border-radius: 1rem;
-	width: 100%;
-	margin: 5px 0;
-}
-
-
 button a {
 	color: #F3f0e7;
 }
