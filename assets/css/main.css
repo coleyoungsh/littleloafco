@@ -114,6 +114,14 @@ nav ul li a.active {
 	color: #be3939;
 }
 
+#cta {
+	background-color: #be3939;
+	color: #F3f0e7;
+	border: none;
+	padding: 8px 15px;
+	border-radius: 1rem;
+}
+
 li {
   /*list-style-type: none;*/
 	color: #747474;
@@ -205,12 +213,9 @@ blockquote p {
 	margin: 5px 0;
 }
 
-.listmonk-form .submit {
-	background-color: #be3939;
+
+button a {
 	color: #F3f0e7;
-	border: none;
-	padding: 15px 20px;
-	border-radius: 1rem;
 }
 
 img {
