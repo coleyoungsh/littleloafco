@@ -30,13 +30,13 @@ h3 {
 }
 
 h1 {
-	font-size: 4rem;
+	font-size: 3rem;
   	text-align: center;
   	margin: 40px;
 }
 
 h2 {
-	font-size: 3rem;
+	font-size: 2rem;
 	font-weight: 200;
 }
 
@@ -64,7 +64,7 @@ h2 a {
 
 h1 a {
 	color: #747474;
-	font-size: 4rem;
+	font-size: 3rem;
 }
 
 a {
@@ -115,11 +115,15 @@ nav ul li a.active {
 }
 
 #cta {
+	display: block;
+	width: 160px;
 	background-color: #be3939;
 	color: #F3f0e7;
 	border: none;
-	padding: 8px 15px;
+	padding: 8px 0;
 	border-radius: 1rem;
+	margin: 4rem auto 0 auto;
+	text-align: center;
 }
 
 li {
